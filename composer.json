@@ -1,0 +1,19 @@
+{
+    "name": "dmsk73/otus_packagist_test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dmsk\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "d.skudnov",
+            "email": "d.skudnov@notamedia.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT"
+}
